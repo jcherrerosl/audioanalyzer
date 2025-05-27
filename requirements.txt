@@ -6,3 +6,4 @@ numpy
 soundfile
 pandas
 matplotlib
+tensorflow==2.12.0
